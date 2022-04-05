@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Fuller
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I just wrapped up a Summer internship project with JB Hunt using Angular and TypeScript and now I'm working on a React Native project for JB Hunt. As a personal project, I'm working on creating a portfolio website
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I'm mainly focusing on school work right now but feel free to look around things I've worked on :)
 - 📫 How to reach me: email - 24nickfuller24@gmail.com
 
 <!---
